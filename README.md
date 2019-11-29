@@ -21,11 +21,8 @@ https://note.youdao.com/ynoteshare1/index.html?id=9cbb766dd957fb39885e3647ebd3af
 ```properties
 http://localhost:8998
 
-管理员账号zuidaima 111111
+学生账号admin  密码：admin
 
-学生账号admin admin
-
-老师账号zuidaima 111111
 
 ```
 #### 软件架构(springboot)
