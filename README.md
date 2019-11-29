@@ -3,7 +3,7 @@
 学生课程评价系统
 
 # 环境搭建
-> Mysql+IDEA+springboot+前端layui
+> Mysql+IDEA开发工具+springboot+前端layui+jdk8
 
 > 运行环境使用谷歌浏览器
 
@@ -17,7 +17,17 @@ https://note.youdao.com/ynoteshare1/index.html?id=9cbb766dd957fb39885e3647ebd3af
 1.  管理员
 2.  老师
 3.  学生
+####项目启动
+```properties
+http://localhost:8998
 
+管理员账号zuidaima 111111
+
+学生账号admin admin
+
+老师账号zuidaima 111111
+
+```
 #### 软件架构(springboot)
 ```properties
 #server.servlet.path=/evaluation
